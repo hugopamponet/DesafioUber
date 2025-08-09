@@ -1,5 +1,5 @@
-# Authentication
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hugopamponet/Authentication/blob/main/LICENSE)
+# Desafio UBER - Envio de notificação por E-mail
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hugopamponet/DesafioUber/blob/main/LICENSE)
 
 # Sobre o projeto
 
